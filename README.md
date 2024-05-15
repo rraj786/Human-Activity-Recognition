@@ -55,4 +55,4 @@ To use this script, follow these steps:
    - Build a Random Forest Classifier to detect the type of motion and evaluate its performance.
 
 ## Results
-Model achieved a mean accuracy of **99.64%** across 10-fold corss-validation. Based on this result, the model's potential for healthcare usage is explored further in the notebook.
+Model achieved a mean accuracy of **99.64%** across 10-fold cross-validation. Based on this result, the model's potential for healthcare usage is explored further in the notebook.
