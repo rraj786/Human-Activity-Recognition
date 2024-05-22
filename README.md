@@ -8,7 +8,7 @@ This script requires the use of Jupyter Notebook and the following dependencies:
 - DateTime (process date/time values)
 - Matplotlib (plotting results)
 - NumPy (manipulating arrays and apply mathematical operations)
-- Pandas (store results and perform)
+- Pandas (store CSV data as a dataframe)
 - Seaborn (statistical data visualisation)
 - Scikit-learn (model creation and performance analysis)
 - Tsfresh (time-series feature engineering)
@@ -55,4 +55,4 @@ To use this script, follow these steps:
    - Build a Random Forest Classifier to detect the type of motion and evaluate its performance.
 
 ## Results
-Model achieved a mean accuracy of **99.64%** across 10-fold cross-validation. Its potential for healthcare usage is explored further in the notebook.
+Model achieved a mean accuracy of **99.64%** across 10-fold corss-validation. Based on this result, the model's potential for healthcare usage is explored further in the notebook.
